@@ -49,14 +49,5 @@ To build a sentiment classifier that predicts whether a given restaurant review 
 - Add real-time input via web form
 - Extend classification to fine-grained sentiment scores (1 to 5)
 
-## 📌 Status
 
-✅ Completed and submitted to Slash Mark  
-📅 Date: 29/05/2025  
-👤 Author: Syed Shahid
 
-## 🔗 Contact
-
-- **Email**: syedshahid7650@gmail.com  
-- **GitHub**: [your-github-username](https://github.com/your-github-username)  
-- **LinkedIn**: [your-linkedin-url](https://linkedin.com/in/your-profile)
